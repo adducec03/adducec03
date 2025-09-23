@@ -5,5 +5,5 @@
 ---
 
 ## 🔗 Contatti
-- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/carmine-adduce-b82704342/))  
+- [LinkedIn](https://www.linkedin.com/in/carmine-adduce-b82704342/)  
 - Email: adducec@gmail.com
