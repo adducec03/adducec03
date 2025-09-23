@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=adducec03&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adducec03&layout=compact&theme=tokyonight)  
 
 ---
 
